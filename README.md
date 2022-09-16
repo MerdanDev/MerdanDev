@@ -60,7 +60,8 @@
 
 
 <br clear="both">
-
-<img src="https://github.com/MerdanDev/MerdanDev/blob/output/snake.svg" alt="Snake animation" />
+<div align="center">
+<img align="center" src="https://github.com/MerdanDev/MerdanDev/blob/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
