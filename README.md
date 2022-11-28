@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **flutter, dart**
 
-- 📫 How to reach me **merdanatamyradov@gmail.com**
-
 - ⚡ Fun fact **I like to watch programming videos on youtube just for entertainment and I like swiping programming memes on instagram**
 
 <h3 align="center">Connect with me</h3>
