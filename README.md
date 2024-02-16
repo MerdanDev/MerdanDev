@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merdandev&label=Profile%20views&color=0e75b6&style=flat" alt="merdandev" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merdandev" alt="merdandev" /></a> </p> -->
-
-- 🔭 I’m currently working on [turkmenportal mobile app](https://play.google.com/store/apps/details?id=com.takykcheshme.turkmenportal) and [online taxi mobile app](https://play.google.com/store/apps/details?id=com.takykcheshme.onlinetaxi)
+<!-- 
+- 🔭 I’m currently working on [turkmenportal mobile app](https://play.google.com/store/apps/details?id=com.takykcheshme.turkmenportal) and [online taxi mobile app](https://play.google.com/store/apps/details?id=com.takykcheshme.onlinetaxi) -->
 
 - 💬 Ask me about **flutter, dart**
 
